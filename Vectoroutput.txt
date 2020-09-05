@@ -1,0 +1,33 @@
+
+ array  0   3
+ vector 0   3
+ array  1   4
+ vector 1   4
+ array  2   6
+ vector 2   6
+ array  3   7
+ vector 3   7
+ array  4   9
+ vector 4   9
+ array  5   12
+ vector 5   12
+ array  6   31
+ vector 6   31
+ array  7   32
+ vector 7   32
+ array  8   88
+ vector 8   88
+ array  9   99
+ vector 9   99
+
+ monkey ekmnoy
+  vector reverse   99
+  vector reverse   88
+  vector reverse   32
+  vector reverse   31
+  vector reverse   12
+  vector reverse   9
+  vector reverse   7
+  vector reverse   6
+  vector reverse   4
+  vector reverse   3
