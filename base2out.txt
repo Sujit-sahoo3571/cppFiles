@@ -1,0 +1,21 @@
+
+enter power , base, modnumber 
+
+
+ Exponent value 523   Base value  5  ModuleNumber 422
+
+ (5^523)%422
+
+ vector forward contain data 
+
+  1  1  0  1  0  0  0  0  0  1
+
+ vector forward sum contain data 
+
+  1  2  8  512
+
+ 523
+
+
+
+ total reminder 287
