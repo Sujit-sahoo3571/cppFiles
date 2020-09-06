@@ -1,0 +1,30 @@
+get the git bash -> git cmd
+
+in cmd ---> 
+ git config --global user.email "chinku3571@gmail.com" | id password 
+	git init 
+	git add vector.cpp
+	git status
+	git commit -m " vector learn "
+	git commit
+	git remote add origin "url"
+	git push -f -u origin master
+
+for existing .git(git init)/folder||dir
+	git add vec.cpp vec1.cpp input.txt output.txt...
+	git commit -m "your message "
+	git push -f -u origin master
+for new existing login :
+	git init
+	git add files... ... 
+	git commit -m "message"
+	git remote add origin "url/repo"
+	git push -f -u origin master
+
+	
+	
+
+
+
+
+	 
